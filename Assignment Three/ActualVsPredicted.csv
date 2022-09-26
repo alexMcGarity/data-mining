@@ -1,0 +1,21 @@
+Instance,(actual) class label,Classifier A,Classifier B,Classifier C,Classifier D,Classifier E
+1,P,P,P,P,P,P
+2,P,P,P,P,P,N
+3,N,P,P,P,N,P
+4,N,P,P,N,N,N
+5,P,P,P,N,N,P
+6,P,P,N,P,P,N
+7,N,P,N,P,P,P
+8,N,P,N,P,N,N
+9,P,P,N,N,N,P
+10,P,P,N,N,N,N
+11,N,N,P,P,P,P
+12,N,N,P,P,P,N
+13,P,N,P,P,N,P
+14,P,N,P,N,N,N
+15,N,N,P,N,N,P
+16,N,N,N,P,P,N
+17,P,N,N,P,P,P
+18,P,N,N,P,N,N
+19,N,N,N,N,N,P
+20,N,N,N,N,N,N
