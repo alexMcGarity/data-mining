@@ -1,0 +1,21 @@
+﻿Instance number,Blood pressure (B),Weight (W),Family history (F),Age (A),Diabetes (D)
+1,avg,>avg,yes,>50,yes
+2,<avg,avg,yes,<=50,no
+3,>avg,>avg,no,>50,yes
+4,avg,>avg,yes,>50,yes
+5,>avg,>avg,yes,>50,no
+6,avg,>avg,yes,<=50,yes
+7,<avg,<avg,yes,<=50,no
+8,>avg,>avg,no,<=50,no
+9,<avg,<avg,no,<=50,no
+10,avg,>avg,yes,<=50,no
+11,>avg,avg,no,>50,no
+12,avg,avg,yes,>50,yes
+13,>avg,>avg,no,>50,yes
+14,avg,avg,no,<=50,no
+15,<avg,avg,no,>50,no
+16,avg,>avg,yes,<=50,yes
+17,>avg,avg,yes,>50,yes
+18,avg,>avg,no,<=50,no
+19,>avg,>avg,no,>50,yes
+20,>avg,avg,no,<=50,no
